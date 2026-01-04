@@ -27,7 +27,7 @@ calculator/
 ▶️ How to Run the Project
 
  1.Clone the repository:
-  git clone https://github.com/your-username/calculator.git
+  git clone https://github.com/nikhilvishwakarma00/calculator-web.git
  2.Navigate to the project folder:
    cd calculator
 3.Open index.html in your web browser.
